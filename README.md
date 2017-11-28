@@ -1,2 +1,2 @@
-# alfred
-A PDF Reporter API
+# Alfred
+A PDF Reporter API.
